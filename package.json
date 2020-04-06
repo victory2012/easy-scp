@@ -1,7 +1,7 @@
 {
-  "name": "df-build-cli",
-  "version": "1.0.9",
-  "description": "dfcous 打包脚手架",
+  "name": "easy-scp-cli",
+  "version": "1.0.0",
+  "description": "打包脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,14 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dengnan123/dfocus-build-cli.git"
+    "url": "https://github.com/victory2012/easy-scp.git"
   },
-  "author": "dany",
+  "author": "victory",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dengnan123/dfocus-build-cli/issues"
-  },
-  "homepage": "https://github.com/dengnan123/dfocus-build-cli#readme",
   "dependencies": {
     "fs-extra": "^8.1.0",
     "inquirer": "^7.0.1",
